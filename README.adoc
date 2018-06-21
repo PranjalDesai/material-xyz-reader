@@ -29,4 +29,4 @@ How To Use:
 ![alt text](https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/blob/master/Screenshots/Screenshot_20180621-122540.png)
 
 
-<img src="https://github.com/PranjalDesai/material-xyz-reader/blob/master/Screenshots/Screenshot_20180621-122540.png">
+<img src="https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/blob/master/Screenshots/Screenshot_20180621-122540.png">
