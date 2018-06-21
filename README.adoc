@@ -26,4 +26,4 @@ How To Use:
   
   Please all the API Key from https://www.themoviedb.org/ and place it in the strings.xml file. Under the moviedb_api_key.
 
-<img src="https://raw.githubusercontent.com/GoogleCloudPlatform/gradle-appengine-templates/77e9910911d5412e5efede5fa681ec105a0f02ad/doc/img/devappserver-endpoints.png">
+<img src="https://github.com/PranjalDesai/material-xyz-reader/blob/master/Screenshots/Screenshot_20180621-122540.png">
