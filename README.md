@@ -26,19 +26,10 @@ How To Use:
   
   Please all the API Key from https://www.themoviedb.org/ and place it in the strings.xml file. Under the moviedb_api_key.
   
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122540.png">
-
-<img width="460" height="300" src="https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122548.png">
-</p>
-
-
-<img src="https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122540.png">
-
-[Explode][explode_link] | [Slide][slide_link]
+  [Screenshot 1][screen_1] | [Screenshot 2][screen_2]
 --- | --- 
+![screen_1] | ![screen_2]
 
-[explode_link]: https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122540.png
-[slide_link]: https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122548.png
+[screen_1]: https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122540.png
 
+[screen_2]: https://raw.githubusercontent.com/PranjalDesai/material-xyz-reader/master/Screenshots/Screenshot_20180621-122548.png
